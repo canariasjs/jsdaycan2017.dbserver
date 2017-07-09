@@ -1,0 +1,26 @@
+{
+  "name": "movies-server",
+  "version": "1.0.0",
+  "description": "Movies testing server created with json-server.",
+  "main": "server.js",
+  "scripts": {
+    "json_server": "json-server db/data.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddialar/js.json-server.movies.git"
+  },
+  "keywords": [
+    "Javascript",
+    "json-server",
+    "NodeJS",
+    "API",
+    "REST"
+  ],
+  "author": "Dailos Rafael Díaz Lara <ddialar@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/ddialar/js.json-server.movies.git#readme",
+  "devDependencies": {
+    "json-server": "^0.11.0"
+  }
+}
