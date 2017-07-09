@@ -1,0 +1,751 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Imitation Game",
+      "description": "During World War II, mathematician Alan Turing tries to crack the enigma code with help from fellow mathematicians.",
+      "poster_image": "images/posters/the_imitation_game.jpg",
+      "duration": 114,
+      "rating": 5,
+      "classification": "PG-13",
+      "year": "2014"
+    },
+    {
+      "id": 2,
+      "title": "Doctor Strange",
+      "description": "While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.",
+      "poster_image": "images/posters/doctor_strange.jpg",
+      "duration": 115,
+      "rating": 7.6,
+      "classification": "PG-13",
+      "year": "1982"
+    },
+    {
+      "id": 3,
+      "title": "Blade Runner",
+      "description": "In a cyberpunk vision of the future, man has developed the technology to create replicants, human clones used to serve in the colonies outside Earth but with fixed lifespans. In Los Angeles, 2019, Deckard is a Blade Runner, a cop who specializes in terminating replicants. Originally in retirement, he is forced to re-enter the force when four replicants escape from an off-world colony to Earth.",
+      "poster_image": "images/posters/blade_runner.jpg",
+      "duration": 117,
+      "rating": 8.3,
+      "classification": "PG-13",
+      "year": "1982"
+    },
+    {
+      "id": 4,
+      "title": "The Dark Knight",
+      "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice.",
+      "poster_image": "images/posters/the_dark_knight.jpg",
+      "duration": 152,
+      "rating": 4.5,
+      "classification": "PG-13",
+      "year": "2008"
+    },
+    {
+      "id": 5,
+      "title": "Inception",
+      "description": "A thief who steals corporate secrets through use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+      "poster_image": "images/posters/inception.jpg",
+      "duration": 148,
+      "rating": 4,
+      "classification": "PG-13",
+      "year": "2010"
+    },
+    {
+      "id": 6,
+      "title": "The Matrix",
+      "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "poster_image": "images/posters/the_matrix.jpg",
+      "duration": 136,
+      "rating": 4,
+      "classification": "R",
+      "year": "1999"
+    }
+  ],
+  "directors": [
+    {
+      "id": 1,
+      "name": "Morten Tyldum"
+    },
+    {
+      "id": 2,
+      "name": "Scott Derrickson"
+    },
+    {
+      "id": 3,
+      "name": "Ridley Scott"
+    },
+    {
+      "id": 4,
+      "name": "Christopher Nolan"
+    },
+    {
+      "id": 5,
+      "name": "Lana Wachowski"
+    },
+    {
+      "id": 6,
+      "name": "Lilly Wachowski"
+    }
+  ],
+  "movies_directors": [
+    {
+      "id": 1,
+      "movieId": 1,
+      "directorId": 1
+    },
+    {
+      "id": 2,
+      "movieId": 2,
+      "directorId": 2
+    },
+    {
+      "id": 3,
+      "movieId": 3,
+      "directorId": 3
+    },
+    {
+      "id": 4,
+      "movieId": 4,
+      "directorId": 4
+    },
+    {
+      "id": 5,
+      "movieId": 5,
+      "directorId": 4
+    },
+    {
+      "id": 6,
+      "movieId": 6,
+      "directorId": 5
+    },
+    {
+      "id": 7,
+      "movieId": 6,
+      "directorId": 6
+    }
+  ],
+  "writers": [
+    {
+      "id": 1,
+      "name": "Graham Moore"
+    },
+    {
+      "id": 2,
+      "name": "Jon Spaihts"
+    },
+    {
+      "id": 3,
+      "name": "Scott Derrickson"
+    },
+    {
+      "id": 4,
+      "name": "C. Robert Cargill"
+    },
+    {
+      "id": 5,
+      "name": "Andrew Hodges"
+    },
+    {
+      "id": 6,
+      "name": "Hampton Fancher"
+    },
+    {
+      "id": 7,
+      "name": "David Webb Peoples"
+    },
+    {
+      "id": 8,
+      "name": "Jonathan Nolan"
+    },
+    {
+      "id": 9,
+      "name": "Christopher Nolan"
+    },
+    {
+      "id": 10,
+      "name": "David S. Goyer"
+    },
+    {
+      "id": 11,
+      "name": "Bob Kane"
+    },
+    {
+      "id": 12,
+      "name": "Lana Wachowski"
+    },
+    {
+      "id": 13,
+      "name": "Lilly Wachowski"
+    }
+  ],
+  "movies_writers": [
+    {
+      "id": 1,
+      "movieId": 1,
+      "writerId": 1
+    },
+    {
+      "id": 2,
+      "movieId": 1,
+      "writerId": 5
+    },
+    {
+      "id": 3,
+      "movieId": 2,
+      "writerId": 2
+    },
+    {
+      "id": 4,
+      "movieId": 2,
+      "writerId": 3
+    },
+    {
+      "id": 5,
+      "movieId": 2,
+      "writerId": 4
+    },
+    {
+      "id": 6,
+      "movieId": 3,
+      "writerId": 6
+    },
+    {
+      "id": 7,
+      "movieId": 3,
+      "writerId": 7
+    },
+    {
+      "id": 8,
+      "movieId": 4,
+      "writerId": 8
+    },
+    {
+      "id": 9,
+      "movieId": 4,
+      "writerId": 9
+    },
+    {
+      "id": 10,
+      "movieId": 4,
+      "writerId": 10
+    },
+    {
+      "id": 11,
+      "movieId": 4,
+      "writerId": 11
+    },
+    {
+      "id": 12,
+      "movieId": 5,
+      "writerId": 9
+    },
+    {
+      "id": 13,
+      "movieId": 6,
+      "writerId": 12
+    },
+    {
+      "id": 14,
+      "movieId": 6,
+      "writerId": 13
+    }
+  ],
+  "actors": [
+    {
+      "id": 1,
+      "name": "Benedict Cumberbatch",
+      "picture": "images/actors/benedict_cumberbatch.jpg",
+      "born": "1976-06-19",
+      "height": 1.83,
+      "country": "United Kingdom"
+    },
+    {
+      "id": 2,
+      "name": "Chiwetel Ejiofor",
+      "picture": "images/actors/chiwetel_ejiofor.jpg",
+      "born": "1977-07-10",
+      "height": 1.78,
+      "country": "United Kingdom"
+    },
+    {
+      "id": 3,
+      "name": "Rachel McAdams",
+      "picture": "images/actors/rachel_mcadams.jpg",
+      "born": "1978-11-17",
+      "height": 1.63,
+      "country": "Canada"
+    },
+    {
+      "id": 4,
+      "name": "Benedict Wong",
+      "picture": "images/actors/benedict_wong.jpg",
+      "born": "1971-06-03",
+      "height": 1.78,
+      "country": "United Kingdom"
+    },
+    {
+      "id": 5,
+      "name": "Tilda Swinton",
+      "picture": "images/actors/tilda_swinton.jpg",
+      "born": "1960-11-05",
+      "height": 1.79,
+      "country": "United Kingdom"
+    },
+    {
+      "id": 6,
+      "name": "Keira Knightley",
+      "picture": "images/actors/keira_knightley.jpg",
+      "born": "1985-03-26",
+      "height": 1.7,
+      "country": "United Kingdom"
+    },
+    {
+      "id": 7,
+      "name": "Matthew Goode",
+      "picture": "images/actors/matthew_goode.jpg",
+      "born": "1978-04-03",
+      "height": 1.87,
+      "country": "United Kingdom"
+    },
+    {
+      "id": 8,
+      "name": "Rory Kinnear",
+      "picture": "images/actors/rory_kinnear.jpg",
+      "born": "1976-02-17",
+      "height": 1.83,
+      "country": "United Kingdom"
+    },
+    {
+      "id": 9,
+      "name": "Allen Leech",
+      "picture": "images/actors/allen_leech.jpg",
+      "born": "1981-05-18",
+      "height": 1.78,
+      "country": "Ireland"
+    },
+    {
+      "id": 10,
+      "name": "Harrison Ford",
+      "picture": "images/actors/harrison_ford.jpg",
+      "born": "1942-06-13",
+      "height": 1.85,
+      "country": "USA"
+    },
+    {
+      "id": 11,
+      "name": "Rutger Hauer",
+      "picture": "images/actors/rutger_hauer.jpg",
+      "born": "1944-01-23",
+      "height": 1.85,
+      "country": "Netherland"
+    },
+    {
+      "id": 12,
+      "name": "Sean Young",
+      "picture": "images/actors/sean_young.jpg",
+      "born": "1959-11-20",
+      "height": 1.75,
+      "country": "USA"
+    },
+    {
+      "id": 13,
+      "name": "Edward James Olmos",
+      "picture": "images/actors/edward_james_olmos.jpg",
+      "born": "1947-02-24",
+      "height": 1.77,
+      "country": "USA"
+    },
+    {
+      "id": 14,
+      "name": "Daryl Hannah",
+      "picture": "images/actors/daryl_hannah.jpg",
+      "born": "1960-12-03",
+      "height": 1.78,
+      "country": "USA"
+    },
+    {
+      "id": 15,
+      "name": "Christian Bale",
+      "picture": "images/actors/christian_bale.jpg",
+      "born": "1974-01-30",
+      "height": 1.83,
+      "country": "United Kingdom"
+    },
+    {
+      "id": 16,
+      "name": "Michael Caine",
+      "picture": "images/actors/michael_caine.jpg",
+      "born": "1933-03-14",
+      "height": 1.84,
+      "country": "United Kingdom"
+    },
+    {
+      "id": 17,
+      "name": "Aaron Eckhart",
+      "picture": "images/actors/aaron_eckhart.jpg",
+      "born": "1968-03-12",
+      "height": 1.83,
+      "country": "USA"
+    },
+    {
+      "id": 18,
+      "name": "Morgan Freeman",
+      "picture": "images/actors/morgan_freeman.jpg",
+      "born": "1937-06-01",
+      "height": 1.88,
+      "country": "USA"
+    },
+    {
+      "id": 19,
+      "name": "Heath Ledger",
+      "picture": "images/actors/heath_ledger.jpg",
+      "born": "1978-04-04",
+      "height": 1.85,
+      "country": "Australia"
+    },
+    {
+      "id": 20,
+      "name": "Leonardo DiCaprio",
+      "picture": "images/actors/leonardo_dicaprio.jpg",
+      "born": "1974-11-11",
+      "height": 1.83,
+      "country": "USA"
+    },
+    {
+      "id": 21,
+      "name": "Joseph Gordon-Levitt",
+      "picture": "images/actors/joseph_gordon_levitt.jpg",
+      "born": "1981-02-17",
+      "height": 1.76,
+      "country": "USA"
+    },
+    {
+      "id": 22,
+      "name": "Ellen Page",
+      "picture": "images/actors/ellen_page.jpg",
+      "born": "1987-02-21",
+      "height": 1.55,
+      "country": "Canada"
+    },
+    {
+      "id": 23,
+      "name": "Tom Hardy",
+      "picture": "images/actors/tom_hardy.jpg",
+      "born": "1977-09-15",
+      "height": 1.75,
+      "country": "United Kingdom"
+    },
+    {
+      "id": 24,
+      "name": "Marion Cotillard",
+      "picture": "images/actors/marion_cotillard.jpg",
+      "born": "1975-09-30",
+      "height": 1.69,
+      "country": "France"
+    },
+    {
+      "id": 25,
+      "name": "Keanu Reeves",
+      "picture": "images/actors/keanu_reeves.jpg",
+      "born": "1964-09-02",
+      "height": 1.86,
+      "country": "Lebanon"
+    },
+    {
+      "id": 26,
+      "name": "Laurence Fishburne",
+      "picture": "images/actors/laurence_fishburne.jpg",
+      "born": "1961-07-30",
+      "height": 1.84,
+      "country": "USA"
+    },
+    {
+      "id": 27,
+      "name": "Carrie-Anne Moss",
+      "picture": "images/actors/carrie_anne_moss.jpg",
+      "born": "1967-08-21",
+      "height": 1.73,
+      "country": "Canada"
+    },
+    {
+      "id": 28,
+      "name": "Hugo Weaving",
+      "picture": "images/actors/hugo_weaving.jpg",
+      "born": "1960-04-04",
+      "height": 1.88,
+      "country": "Nigeria"
+    }
+  ],
+  "movies_actors": [
+    {
+      "id": 1,
+      "movieId": 1,
+      "actorId": 1
+    },
+    {
+      "id": 2,
+      "movieId": 1,
+      "actorId": 6
+    },
+    {
+      "id": 3,
+      "movieId": 1,
+      "actorId": 7
+    },
+    {
+      "id": 4,
+      "movieId": 1,
+      "actorId": 8
+    },
+    {
+      "id": 5,
+      "movieId": 1,
+      "actorId": 9
+    },
+    {
+      "id": 6,
+      "movieId": 2,
+      "actorId": 1
+    },
+    {
+      "id": 7,
+      "movieId": 2,
+      "actorId": 2
+    },
+    {
+      "id": 8,
+      "movieId": 2,
+      "actorId": 3
+    },
+    {
+      "id": 9,
+      "movieId": 2,
+      "actorId": 4
+    },
+    {
+      "id": 10,
+      "movieId": 2,
+      "actorId": 5
+    },
+    {
+      "id": 11,
+      "movieId": 3,
+      "actorId": 10
+    },
+    {
+      "id": 12,
+      "movieId": 3,
+      "actorId": 11
+    },
+    {
+      "id": 13,
+      "movieId": 3,
+      "actorId": 12
+    },
+    {
+      "id": 14,
+      "movieId": 3,
+      "actorId": 13
+    },
+    {
+      "id": 15,
+      "movieId": 3,
+      "actorId": 14
+    },
+    {
+      "id": 16,
+      "movieId": 4,
+      "actorId": 15
+    },
+    {
+      "id": 17,
+      "movieId": 4,
+      "actorId": 16
+    },
+    {
+      "id": 18,
+      "movieId": 4,
+      "actorId": 17
+    },
+    {
+      "id": 19,
+      "movieId": 4,
+      "actorId": 18
+    },
+    {
+      "id": 20,
+      "movieId": 4,
+      "actorId": 19
+    },
+    {
+      "id": 21,
+      "movieId": 5,
+      "actorId": 20
+    },
+    {
+      "id": 22,
+      "movieId": 5,
+      "actorId": 21
+    },
+    {
+      "id": 23,
+      "movieId": 5,
+      "actorId": 22
+    },
+    {
+      "id": 24,
+      "movieId": 5,
+      "actorId": 23
+    },
+    {
+      "id": 25,
+      "movieId": 5,
+      "actorId": 24
+    },
+    {
+      "id": 26,
+      "movieId": 6,
+      "actorId": 25
+    },
+    {
+      "id": 27,
+      "movieId": 6,
+      "actorId": 26
+    },
+    {
+      "id": 28,
+      "movieId": 6,
+      "actorId": 27
+    },
+    {
+      "id": 29,
+      "movieId": 6,
+      "actorId": 28
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Fantasy"
+    },
+    {
+      "id": 3,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Thriller"
+    },
+    {
+      "id": 5,
+      "name": "Drama"
+    },
+    {
+      "id": 6,
+      "name": "Biography"
+    },
+    {
+      "id": 7,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 8,
+      "name": "Crime"
+    },
+    {
+      "id": 9,
+      "name": "Mystery"
+    }
+  ],
+  "movies_genres": [
+    {
+      "id": 1,
+      "movieId": 1,
+      "genreId": 4
+    },
+    {
+      "id": 2,
+      "movieId": 1,
+      "genreId": 5
+    },
+    {
+      "id": 3,
+      "movieId": 1,
+      "genreId": 6
+    },
+    {
+      "id": 4,
+      "movieId": 2,
+      "genreId": 1
+    },
+    {
+      "id": 5,
+      "movieId": 2,
+      "genreId": 2
+    },
+    {
+      "id": 6,
+      "movieId": 2,
+      "genreId": 3
+    },
+    {
+      "id": 7,
+      "movieId": 3,
+      "genreId": 5
+    },
+    {
+      "id": 8,
+      "movieId": 3,
+      "genreId": 7
+    },
+    {
+      "id": 9,
+      "movieId": 3,
+      "genreId": 4
+    },
+    {
+      "id": 10,
+      "movieId": 4,
+      "genreId": 1
+    },
+    {
+      "id": 11,
+      "movieId": 4,
+      "genreId": 5
+    },
+    {
+      "id": 12,
+      "movieId": 4,
+      "genreId": 8
+    },
+    {
+      "id": 13,
+      "movieId": 5,
+      "genreId": 1
+    },
+    {
+      "id": 14,
+      "movieId": 5,
+      "genreId": 9
+    },
+    {
+      "id": 15,
+      "movieId": 5,
+      "genreId": 7
+    },
+    {
+      "id": 16,
+      "movieId": 6,
+      "genreId": 1
+    },
+    {
+      "id": 17,
+      "movieId": 6,
+      "genreId": 7
+    }
+  ]
+}
