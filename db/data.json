@@ -4,7 +4,8 @@
       "id": 1,
       "title": "The Imitation Game",
       "description": "During World War II, mathematician Alan Turing tries to crack the enigma code with help from fellow mathematicians.",
-      "poster_image": "images/posters/the_imitation_game.jpg",
+      "poster_image": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTgwMzFiMWYtZDhlNS00ODNkLWJiODAtZDVhNzgyNzJhYjQ4L2ltYWdlXkEyXkFqcGdeQXVyNzEzOTYxNTQ@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "poster_image_file": "images/posters/the_imitation_game.jpg",
       "duration": 114,
       "rating": 5,
       "classification": "PG-13",
@@ -14,7 +15,8 @@
       "id": 2,
       "title": "Doctor Strange",
       "description": "While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.",
-      "poster_image": "images/posters/doctor_strange.jpg",
+      "poster_image": "http://www.goodillustration.com/blog/wp-content/uploads/2016/11/drstrange2.jpg",
+      "poster_image_file": "images/posters/doctor_strange.jpg",
       "duration": 115,
       "rating": 7.6,
       "classification": "PG-13",
@@ -24,7 +26,8 @@
       "id": 3,
       "title": "Blade Runner",
       "description": "In a cyberpunk vision of the future, man has developed the technology to create replicants, human clones used to serve in the colonies outside Earth but with fixed lifespans. In Los Angeles, 2019, Deckard is a Blade Runner, a cop who specializes in terminating replicants. Originally in retirement, he is forced to re-enter the force when four replicants escape from an off-world colony to Earth.",
-      "poster_image": "images/posters/blade_runner.jpg",
+      "poster_image": "http://cdn2.thr.com/sites/default/files/2017/05/blade_runner_xlg-embed.jpg",
+      "poster_image_file": "images/posters/blade_runner.jpg",
       "duration": 117,
       "rating": 8.3,
       "classification": "PG-13",
@@ -34,7 +37,8 @@
       "id": 4,
       "title": "The Dark Knight",
       "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice.",
-      "poster_image": "images/posters/the_dark_knight.jpg",
+      "poster_image": "https://images-na.ssl-images-amazon.com/images/I/51KnFPZUIAL._SY450_.jpg",
+      "poster_image_file": "images/posters/the_dark_knight.jpg",
       "duration": 152,
       "rating": 4.5,
       "classification": "PG-13",
@@ -44,7 +48,8 @@
       "id": 5,
       "title": "Inception",
       "description": "A thief who steals corporate secrets through use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
-      "poster_image": "images/posters/inception.jpg",
+      "poster_image": "http://cdn.collider.com/wp-content/uploads/Inception-movie-poster-7.jpg",
+      "poster_image_file": "images/posters/inception.jpg",
       "duration": 148,
       "rating": 4,
       "classification": "PG-13",
@@ -54,7 +59,8 @@
       "id": 6,
       "title": "The Matrix",
       "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
-      "poster_image": "images/posters/the_matrix.jpg",
+      "poster_image": "https://images-na.ssl-images-amazon.com/images/I/51k1epcewKL._SY300_.jpg",
+      "poster_image_file": "images/posters/the_matrix.jpg",
       "duration": 136,
       "rating": 4,
       "classification": "R",
@@ -64,27 +70,39 @@
   "directors": [
     {
       "id": 1,
-      "name": "Morten Tyldum"
+      "name": "Morten Tyldum",
+      "picture": "",
+      "picture_file": "img/directors/morten_tyldum.jpg"
     },
     {
       "id": 2,
-      "name": "Scott Derrickson"
+      "name": "Scott Derrickson",
+      "picture": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY0MDA1MTUxM15BMl5BanBnXkFtZTgwNDI0Nzk2NDE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+      "picture_file": "img/directors/scott_derrickson.jpg"
     },
     {
       "id": 3,
-      "name": "Ridley Scott"
+      "name": "Ridley Scott",
+      "picture": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAwMzc0NjY3OF5BMl5BanBnXkFtZTcwNTU0MjQ1Mw@@._V1_UY317_CR8,0,214,317_AL_.jpg",
+      "picture_file": "img/directors/ridley_scott.jpg"
     },
     {
       "id": 4,
-      "name": "Christopher Nolan"
+      "name": "Christopher Nolan",
+      "picture": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjE3NDQyOTYyMV5BMl5BanBnXkFtZTcwODcyODU2Mw@@._V1_UY317_CR7,0,214,317_AL_.jpg",
+      "picture_file": "img/directors/christopher_nolan.jpg"
     },
     {
       "id": 5,
-      "name": "Lana Wachowski"
+      "name": "Lana Wachowski",
+      "picture": "http://i.dailymail.co.uk/i/pix/2016/01/07/21/2FE3C3DC00000578-3389334-image-m-89_1452201623364.jpg",
+      "picture_file": "img/directors/lana_wachowski.jpg"
     },
     {
       "id": 6,
-      "name": "Lilly Wachowski"
+      "name": "Lilly Wachowski",
+      "picture": "http://i1.pudelekx.pl/b3812799298239f6958eab86514613a4d07d3f1b/en_01207504_1110-jpg",
+      "picture_file": "img/directors/lilly_wachowski.jpg"
     }
   ],
   "movies_directors": [
@@ -127,55 +145,81 @@
   "writers": [
     {
       "id": 1,
-      "name": "Graham Moore"
+      "name": "Graham Moore",
+      "picture": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTQ2Njg1OTM2OF5BMl5BanBnXkFtZTgwMDk2MzU0MzE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+      "picture_file": "img/writers/graham_moore.jpg"
     },
     {
       "id": 2,
-      "name": "Jon Spaihts"
+      "name": "Jon Spaihts",
+      "picture": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAzMTM2MDU1N15BMl5BanBnXkFtZTgwMzczOTY5NzE@._V1_UY317_CR21,0,214,317_AL_.jpg",
+      "picture_file": "img/writers/jon_spaihts.jpg"
     },
     {
       "id": 3,
-      "name": "Scott Derrickson"
+      "name": "Scott Derrickson",
+      "picture": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY0MDA1MTUxM15BMl5BanBnXkFtZTgwNDI0Nzk2NDE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+      "picture_file": "img/writers/scott_derrickson.jpg"
     },
     {
       "id": 4,
-      "name": "C. Robert Cargill"
+      "name": "C. Robert Cargill",
+      "picture": "https://vignette2.wikia.nocookie.net/marvelcinematicuniverse/images/a/a3/C._Robert_Cargill.png/revision/latest?cb=20160414133428&path-prefix=es",
+      "picture_file": "img/writers/c_robert_cargill.png"
     },
     {
       "id": 5,
-      "name": "Andrew Hodges"
+      "name": "Andrew Hodges",
+      "picture": "http://lectures.princeton.edu/wp-content/uploads/2011/10/HODGES.jpg",
+      "picture_file": "img/writers/andrew_hodges.jpg"
     },
     {
       "id": 6,
-      "name": "Hampton Fancher"
+      "name": "Hampton Fancher",
+      "picture": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc5MTI0NDE2NV5BMl5BanBnXkFtZTYwMDM5Nzc2._V1_UX214_CR0,0,214,317_AL_.jpg",
+      "picture_file": "img/writers/hampton_fancher.jpg"
     },
     {
       "id": 7,
-      "name": "David Webb Peoples"
+      "name": "David Webb Peoples",
+      "picture": "https://2.bp.blogspot.com/-u_0lz4gHA6M/VyzQkn-3tNI/AAAAAAAASDA/kgnYj5o1x18gt3sP234wTTzkWDTA3AvdwCLcB/s1600/p026dlb8.jpg",
+      "picture_file": "img/writers/david_webb_peoples.jpg"
     },
     {
       "id": 8,
-      "name": "Jonathan Nolan"
+      "name": "Jonathan Nolan",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Jonathan_Nolan_by_Gage_Skidmore.jpg/1200px-Jonathan_Nolan_by_Gage_Skidmore.jpg",
+      "picture_file": "img/writers/jonathan_nolan.jpg"
     },
     {
       "id": 9,
-      "name": "Christopher Nolan"
+      "name": "Christopher Nolan",
+      "picture": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjE3NDQyOTYyMV5BMl5BanBnXkFtZTcwODcyODU2Mw@@._V1_UY317_CR7,0,214,317_AL_.jpg",
+      "picture_file": "img/writers/christopher_nolan.jpg"
     },
     {
       "id": 10,
-      "name": "David S. Goyer"
+      "name": "David S. Goyer",
+      "picture": "https://blogdesuperheroes.es/wp-content/plugins/BdSGallery/BdSGaleria/15391.jpg",
+      "picture_file": "img/writers/david_s_goyer.jpg"
     },
     {
       "id": 11,
-      "name": "Bob Kane"
+      "name": "Bob Kane",
+      "picture": "https://vignette.wikia.nocookie.net/batman/images/4/47/Bob_Kane_2.jpg/revision/latest/scale-to-width-down/250?cb=20161024143141",
+      "picture_file": "img/writers/bob_kane.jpg"
     },
     {
       "id": 12,
-      "name": "Lana Wachowski"
+      "name": "Lana Wachowski",
+      "picture": "http://i.dailymail.co.uk/i/pix/2016/01/07/21/2FE3C3DC00000578-3389334-image-m-89_1452201623364.jpg",
+      "picture_file": "img/writers/lana_wachowski.jpg"
     },
     {
       "id": 13,
-      "name": "Lilly Wachowski"
+      "name": "Lilly Wachowski",
+      "picture": "http://i1.pudelekx.pl/b3812799298239f6958eab86514613a4d07d3f1b/en_01207504_1110-jpg",
+      "picture_file": "img/writers/lilly_wachowski.jpg"
     }
   ],
   "movies_writers": [
