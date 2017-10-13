@@ -340,7 +340,7 @@
     {
       "id": 1,
       "name": "Benedict Cumberbatch",
-      "picture": "images/actors/benedict_cumberbatch.jpg",
+      "picture": "https://vignette2.wikia.nocookie.net/disney/images/7/73/Benedict_Cumberbatch.png/revision/latest?cb=20161130234835",
       "born": "1976-06-19",
       "height": 1.83,
       "country": "United Kingdom"
@@ -348,7 +348,7 @@
     {
       "id": 2,
       "name": "Chiwetel Ejiofor",
-      "picture": "images/actors/chiwetel_ejiofor.jpg",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Chiwetel_Ejiofor_by_Gage_Skidmore.jpg/220px-Chiwetel_Ejiofor_by_Gage_Skidmore.jpg",
       "born": "1977-07-10",
       "height": 1.78,
       "country": "United Kingdom"
@@ -356,7 +356,7 @@
     {
       "id": 3,
       "name": "Rachel McAdams",
-      "picture": "images/actors/rachel_mcadams.jpg",
+      "picture": "https://media1.popsugar-assets.com/files/thumbor/kT8IMGcYwhA5TWDT5wVXSMI1dZA/fit-in/500x500/filters:format_auto-!!-:strip_icc-!!-/2012/12/51/4/192/1922398/dc240900e8593bfd_rachel-mcadams.jpg",
       "born": "1978-11-17",
       "height": 1.63,
       "country": "Canada"
@@ -364,7 +364,7 @@
     {
       "id": 4,
       "name": "Benedict Wong",
-      "picture": "images/actors/benedict_wong.jpg",
+      "picture": "https://vignette1.wikia.nocookie.net/marvelmovies/images/d/d9/Benedict_Wong.jpg/revision/latest?cb=20160122084141",
       "born": "1971-06-03",
       "height": 1.78,
       "country": "United Kingdom"
@@ -372,7 +372,7 @@
     {
       "id": 5,
       "name": "Tilda Swinton",
-      "picture": "images/actors/tilda_swinton.jpg",
+      "picture": "http://cdn-img.instyle.com/sites/default/files/styles/684xflex/public/1430839020/050515-tilda-swinton-lead.jpg?itok=Fwd8IdCj",
       "born": "1960-11-05",
       "height": 1.79,
       "country": "United Kingdom"
@@ -380,7 +380,7 @@
     {
       "id": 6,
       "name": "Keira Knightley",
-      "picture": "images/actors/keira_knightley.jpg",
+      "picture": "https://timedotcom.files.wordpress.com/2014/11/455297292.jpg?h=580",
       "born": "1985-03-26",
       "height": 1.7,
       "country": "United Kingdom"
@@ -388,7 +388,7 @@
     {
       "id": 7,
       "name": "Matthew Goode",
-      "picture": "images/actors/matthew_goode.jpg",
+      "picture": "https://i.pinimg.com/736x/37/c8/d6/37c8d62e048497e294ec2706f00a68f6--matthew-goode-dark-hair.jpg",
       "born": "1978-04-03",
       "height": 1.87,
       "country": "United Kingdom"
@@ -396,7 +396,7 @@
     {
       "id": 8,
       "name": "Rory Kinnear",
-      "picture": "images/actors/rory_kinnear.jpg",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Rory_Kinnear_2012_%28cropped%29.jpg",
       "born": "1976-02-17",
       "height": 1.83,
       "country": "United Kingdom"
@@ -404,7 +404,7 @@
     {
       "id": 9,
       "name": "Allen Leech",
-      "picture": "images/actors/allen_leech.jpg",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/2/20/Allen_Leech%2C_Adventures_of_Tintin%2C_London%2C_2011.jpg",
       "born": "1981-05-18",
       "height": 1.78,
       "country": "Ireland"
@@ -412,7 +412,7 @@
     {
       "id": 10,
       "name": "Harrison Ford",
-      "picture": "images/actors/harrison_ford.jpg",
+      "picture": "https://ep01.epimg.net/elpais/imagenes/2017/07/11/gente/1499790774_503124_1499934465_portadilla_normal.jpg",
       "born": "1942-06-13",
       "height": 1.85,
       "country": "USA"
@@ -420,7 +420,7 @@
     {
       "id": 11,
       "name": "Rutger Hauer",
-      "picture": "images/actors/rutger_hauer.jpg",
+      "picture": "http://es.web.img3.acsta.net/pictures/15/01/29/16/12/237308.jpg",
       "born": "1944-01-23",
       "height": 1.85,
       "country": "Netherland"
@@ -428,7 +428,7 @@
     {
       "id": 12,
       "name": "Sean Young",
-      "picture": "images/actors/sean_young.jpg",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Sean_Young_LF.JPG",
       "born": "1959-11-20",
       "height": 1.75,
       "country": "USA"
@@ -436,7 +436,7 @@
     {
       "id": 13,
       "name": "Edward James Olmos",
-      "picture": "images/actors/edward_james_olmos.jpg",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Edward_James_Olmos_Sept_06_crop_face.jpg/220px-Edward_James_Olmos_Sept_06_crop_face.jpg",
       "born": "1947-02-24",
       "height": 1.77,
       "country": "USA"
@@ -444,7 +444,7 @@
     {
       "id": 14,
       "name": "Daryl Hannah",
-      "picture": "images/actors/daryl_hannah.jpg",
+      "picture": "https://vignette.wikia.nocookie.net/sense8/images/a/a2/Daryl.png/revision/latest?cb=20140621224529",
       "born": "1960-12-03",
       "height": 1.78,
       "country": "USA"
@@ -452,7 +452,7 @@
     {
       "id": 15,
       "name": "Christian Bale",
-      "picture": "images/actors/christian_bale.jpg",
+      "picture": "https://media1.popsugar-assets.com/files/thumbor/1LQbpfgfJRomQO_qo0hECjSfGsk/fit-in/500x500/filters:format_auto-!!-:strip_icc-!!-/2012/12/51/3/192/1922398/77b6c02fc194714e_christianbale.jpg",
       "born": "1974-01-30",
       "height": 1.83,
       "country": "United Kingdom"
@@ -460,7 +460,7 @@
     {
       "id": 16,
       "name": "Michael Caine",
-      "picture": "images/actors/michael_caine.jpg",
+      "picture": "https://pbs.twimg.com/profile_images/1132466648/MichaelCaine_10.JPG",
       "born": "1933-03-14",
       "height": 1.84,
       "country": "United Kingdom"
@@ -468,7 +468,7 @@
     {
       "id": 17,
       "name": "Aaron Eckhart",
-      "picture": "images/actors/aaron_eckhart.jpg",
+      "picture": "http://cdn2.estamosrodando.com/biografias/3/12/aaron-eckhart-165337.jpg",
       "born": "1968-03-12",
       "height": 1.83,
       "country": "USA"
@@ -476,7 +476,7 @@
     {
       "id": 18,
       "name": "Morgan Freeman",
-      "picture": "images/actors/morgan_freeman.jpg",
+      "picture": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0MDMyMzI2OF5BMl5BanBnXkFtZTcwMzM2OTk1MQ@@._V1_UX214_CR0,0,214,317_AL_.jpg",
       "born": "1937-06-01",
       "height": 1.88,
       "country": "USA"
@@ -484,7 +484,7 @@
     {
       "id": 19,
       "name": "Heath Ledger",
-      "picture": "images/actors/heath_ledger.jpg",
+      "picture": "http://cdn.newsapi.com.au/image/v1/3d72a7603eb82431f8f0c9f1c2862d51",
       "born": "1978-04-04",
       "height": 1.85,
       "country": "Australia"
@@ -492,7 +492,7 @@
     {
       "id": 20,
       "name": "Leonardo DiCaprio",
-      "picture": "images/actors/leonardo_dicaprio.jpg",
+      "picture": "https://media4.s-nbcnews.com/j/newscms/2016_04/951851/ss-121226-leonardo-dicaprio-5-nbcnews-ux-1024-900_8aac41293789b0c0b66c91cb8d098f04.today-ss-slide-desktop.jpg",
       "born": "1974-11-11",
       "height": 1.83,
       "country": "USA"
@@ -500,7 +500,7 @@
     {
       "id": 21,
       "name": "Joseph Gordon-Levitt",
-      "picture": "images/actors/joseph_gordon_levitt.jpg",
+      "picture": "http://teenagethunder.com/wp-content/uploads/2013/10/premium-rush-premiere-joseph-gordon-levitt-59f62cf4a5fb1ba6.jpg",
       "born": "1981-02-17",
       "height": 1.76,
       "country": "USA"
@@ -508,7 +508,7 @@
     {
       "id": 22,
       "name": "Ellen Page",
-      "picture": "images/actors/ellen_page.jpg",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/EllenPageByNinhaMorandin2010Inception.jpg/220px-EllenPageByNinhaMorandin2010Inception.jpg",
       "born": "1987-02-21",
       "height": 1.55,
       "country": "Canada"
@@ -516,7 +516,7 @@
     {
       "id": 23,
       "name": "Tom Hardy",
-      "picture": "images/actors/tom_hardy.jpg",
+      "picture": "https://media.gq.com/photos/56d4902a9acdcf20275ef34c/master/pass/tom-hardy-lead-840.jpg",
       "born": "1977-09-15",
       "height": 1.75,
       "country": "United Kingdom"
@@ -524,7 +524,7 @@
     {
       "id": 24,
       "name": "Marion Cotillard",
-      "picture": "images/actors/marion_cotillard.jpg",
+      "picture": "https://i.pinimg.com/736x/07/39/ac/0739ac6859fe8c4d78f7afcda8f4520e--marion-cotillard-hair-thin-hair.jpg",
       "born": "1975-09-30",
       "height": 1.69,
       "country": "France"
@@ -532,7 +532,7 @@
     {
       "id": 25,
       "name": "Keanu Reeves",
-      "picture": "images/actors/keanu_reeves.jpg",
+      "picture": "http://vignette2.wikia.nocookie.net/doblaje/images/1/16/KeanuReeves.jpg/revision/latest?cb=20120724032758&path-prefix=es",
       "born": "1964-09-02",
       "height": 1.86,
       "country": "Lebanon"
@@ -540,7 +540,7 @@
     {
       "id": 26,
       "name": "Laurence Fishburne",
-      "picture": "images/actors/laurence_fishburne.jpg",
+      "picture": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0NjczNDc1MV5BMl5BanBnXkFtZTYwMDU0Mjg1._V1_UX214_CR0,0,214,317_AL_.jpg",
       "born": "1961-07-30",
       "height": 1.84,
       "country": "USA"
@@ -548,7 +548,7 @@
     {
       "id": 27,
       "name": "Carrie-Anne Moss",
-      "picture": "images/actors/carrie_anne_moss.jpg",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Carrie-Anne_Moss_May_2016.jpg/220px-Carrie-Anne_Moss_May_2016.jpg",
       "born": "1967-08-21",
       "height": 1.73,
       "country": "Canada"
@@ -556,7 +556,7 @@
     {
       "id": 28,
       "name": "Hugo Weaving",
-      "picture": "images/actors/hugo_weaving.jpg",
+      "picture": "http://i6.photobucket.com/albums/y221/Crowjane29/Crowjane%202014/2014-02-09-9679-1807_Hugo_Weaving_IMG_x900_zps5a2349ee.jpg",
       "born": "1960-04-04",
       "height": 1.88,
       "country": "Nigeria"
