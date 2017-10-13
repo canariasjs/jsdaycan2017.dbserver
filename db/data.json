@@ -9,7 +9,14 @@
       "duration": 114,
       "rating": 5,
       "classification": "PG-13",
-      "year": "2014"
+      "year": "2014",
+      "trailer": {
+        "width": 560,
+        "height": 315,
+        "src": "https://www.youtube.com/embed/S5CjKEFb-sM?rel=0&amp;showinfo=0",
+        "frameborder": 0,
+        "iframe": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/S5CjKEFb-sM?rel=0&amp;showinfo=0\" frameborder=\"0\"></iframe>"
+      }
     },
     {
       "id": 2,
@@ -20,7 +27,14 @@
       "duration": 115,
       "rating": 7.6,
       "classification": "PG-13",
-      "year": "1982"
+      "year": "1982",
+      "trailer": {
+        "width": 560,
+        "height": 315,
+        "src": "https://www.youtube.com/embed/DYyMsYgZDJM?rel=0&amp;showinfo=0",
+        "frameborder": 0,
+        "iframe": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/DYyMsYgZDJM?rel=0&amp;showinfo=0\" frameborder=\"0\"></iframe>"
+      }
     },
     {
       "id": 3,
@@ -31,7 +45,14 @@
       "duration": 117,
       "rating": 8.3,
       "classification": "PG-13",
-      "year": "1982"
+      "year": "1982",
+      "trailer": {
+        "width": 560,
+        "height": 315,
+        "src": "https://www.youtube.com/embed/OMl_i8uJTOs?rel=0&amp;showinfo=0",
+        "frameborder": 0,
+        "iframe": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/OMl_i8uJTOs?rel=0&amp;showinfo=0\" frameborder=\"0\"></iframe>"
+      }
     },
     {
       "id": 4,
@@ -42,7 +63,14 @@
       "duration": 152,
       "rating": 4.5,
       "classification": "PG-13",
-      "year": "2008"
+      "year": "2008",
+      "trailer": {
+        "width": 560,
+        "height": 315,
+        "src": "https://www.youtube.com/embed/zrXP6TYK8rY?rel=0&amp;showinfo=0",
+        "frameborder": 0,
+        "iframe": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/zrXP6TYK8rY?rel=0&amp;showinfo=0\" frameborder=\"0\"></iframe>"
+      }
     },
     {
       "id": 5,
@@ -53,7 +81,14 @@
       "duration": 148,
       "rating": 4,
       "classification": "PG-13",
-      "year": "2010"
+      "year": "2010",
+      "trailer": {
+        "width": 560,
+        "height": 315,
+        "src": "https://www.youtube.com/embed/RV9L7ui9Cn8?rel=0&amp;showinfo=0",
+        "frameborder": 0,
+        "iframe": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/RV9L7ui9Cn8?rel=0&amp;showinfo=0\" frameborder=\"0\"></iframe>"
+      }
     },
     {
       "id": 6,
@@ -64,7 +99,14 @@
       "duration": 136,
       "rating": 4,
       "classification": "R",
-      "year": "1999"
+      "year": "1999",
+      "trailer": {
+        "width": 560,
+        "height": 315,
+        "src": "https://www.youtube.com/embed/vN_Hx_It3r0?rel=0&amp;showinfo=0",
+        "frameborder": 0,
+        "iframe": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/vN_Hx_It3r0?rel=0&amp;showinfo=0\" frameborder=\"0\"></iframe>"
+      }
     }
   ],
   "directors": [
