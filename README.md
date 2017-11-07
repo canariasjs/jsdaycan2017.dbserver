@@ -1,4 +1,4 @@
-# Servidor de Películas basado en json-server
+![Repo Header](images/repository/repo-header.png)
 
 [English version](README.EN.md)
 
