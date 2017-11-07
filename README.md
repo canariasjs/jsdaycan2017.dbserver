@@ -2,7 +2,7 @@
 
 [English version](README.EN.md)
 
-Servidor para pruebas que contiene información acerca de películas, directores, guinistas, actores, actrices y géneros cinematográficos.
+Servidor para pruebas que contiene información acerca de películas, directores, guionistas, actores, actrices y géneros cinematográficos.
 
 Su funcionamiento está basado en la herramienta [json-server](https://github.com/typicode/json-server) la cual, nos proporciona una API REST funcional para poder consumir y almacenar datos.
 
@@ -13,8 +13,8 @@ La información manejada por este servidor se encuentra almacenada en un archivo
 Para iniciar el servidor, se deben llevar a cabo los siguientes pasos:
 
 ```sh
-$ git clone https://github.com/ddialar/js.json-server.movies.git movies-server
-$ cd movies-server
+$ git clone https://github.com/canariasjs/jsdaycan2017.dbserver.git dbserver
+$ cd dbserver
 $ npm install
 $ npm run json_server
 ```

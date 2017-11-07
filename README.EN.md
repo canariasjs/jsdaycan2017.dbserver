@@ -11,8 +11,8 @@ All data handled by this server is contained on a [JSON](db/data.json) file and 
 In order to work with this server, it's needed to follow the next steps:
 
 ```sh
-$ git clone https://github.com/ddialar/js.json-server.movies.git movies-server
-$ cd movies-server
+$ git clone https://github.com/canariasjs/jsdaycan2017.dbserver.git dbserver
+$ cd dbserver
 $ npm install
 $ npm run json_server
 ```
